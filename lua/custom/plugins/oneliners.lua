@@ -8,4 +8,7 @@ return {
       require('nvim-highlight-colors').setup {}
     end,
   },
+  {
+    'ThePrimeagen/vim-be-good',
+  },
 }
